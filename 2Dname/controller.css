@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(2dname.png);
+    background: url(2dnamescaled.png);
     height: 630px;
     width: 750px;
     transform: scale (0.24);

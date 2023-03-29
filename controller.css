@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://imgur.com/IKK4eND.png);
+    background: url(3Dnoname.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://imgur.com/nC9siMf.png);
+    background: url(bumper.png);
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(https://imgur.com/GUV7bOv.png);
+    background: url(playerindicator.png);
     height: 45px;
     width: 45px;
     top: 258px;
